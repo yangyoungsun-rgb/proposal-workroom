@@ -30,6 +30,9 @@ JavaScript로 옮긴 것입니다(`index.html` 안 "RFP 분석 엔진" 부분).
 ```
 index.html                 화면 + 분석 엔진 (단일 파일)
 samples/샘플_제안요청서.pdf  시험용 가상 RFP
+CLAUDE.md                  Claude Code 작업 안내
+docs/PRD.md                제품 요구사항
+docs/HANDOFF.md            인수인계·다음 할 일
 ```
 
 ## 주의
