@@ -7,8 +7,10 @@
 | 2 | 웹 시안 `index.html` — 화면 7개, 결재란 진행판, 승인·잠금·변경요청, 검증 대시보드, 미리보기·의견 | 완료 (샘플 데이터) |
 | 3 | OneFinger 디자인 적용, 화이트 톤 고정 | 완료 |
 | 4 | P1 공고문 분석 실제 동작 (PDF·HWPX·DOCX·TXT → 요구사항·작성지시·감점/실격·사업개요, trace.csv·ins.csv 내려받기) | 완료. PDF·DOCX 검증, HWPX는 실제 파일로 미검증 |
-| 5 | GitHub 저장소 생성 `yangyoungsun-rgb/proposal-workroom` (Private, main) | **비어 있음 — 아직 push 안 됨** |
-| 6 | Vercel 계정 `yangyoungsun-3462` ↔ GitHub 연결 | Vercel이 저장소를 볼 수 있음. 프로젝트는 아직 없음 |
+| 5 | GitHub 저장소 `yangyoungsun-rgb/proposal-workroom` (Private, main) | 완료 (2026-10-23 push). Public으로 되어 있던 것을 Private으로 되돌림 |
+| 6 | Vercel 프로젝트 `yangyoungsun-3462/proposal-workroom` ↔ GitHub 연결 | 완료. main에 push하면 자동 배포. 운영 주소 https://proposal-workroom.vercel.app (샘플 RFP로 13·21·2·1·5건 확인) |
+
+> 아래 2·3장의 1~3번은 처리 완료. 운영 주소는 Hobby 플랜이라 로그인 없이 열림(배포별 주소만 Vercel 로그인 보호).
 
 ## 2. 막혔던 것 (이유)
 - claude.ai 채팅에는 GitHub MCP가 없어 push 불가.
