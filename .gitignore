@@ -6,3 +6,5 @@ node_modules/
 # 실제 고객 공고문·제안서는 올리지 않습니다
 uploads/
 private/
+.vercel
+.env*
